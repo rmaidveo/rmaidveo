@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 📚 Чем я занимаюсь:
-- 🌍 Работаю над проектами с использованием React.
+![Coding](https://media.giphy.com/media/3o7abK4f4zXqEmk1BS/giphy.gif)
 
 ## 🛠 Мои навыки:
 
