@@ -1,9 +1,4 @@
-## Hi there 👋
-
-## 📚 Чем я занимаюсь:
-![Coding](https://media.giphy.com/media/3o7abK4f4zXqEmk1BS/giphy.gif)
-
-## 🛠 Мои навыки:
+## 🛠
 
 ### Языки и основные технологии:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
